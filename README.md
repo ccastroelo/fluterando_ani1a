@@ -6,4 +6,4 @@ Curso Fluterando
 
 Exercício de animações implicitas
 
-![caption]https://github.com/ccastroelo/fluterando_ani1a/blob/main/ani1a.gif
+![caption](https://github.com/ccastroelo/fluterando_ani1a/blob/main/ani1a.gif)
